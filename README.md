@@ -1,1 +1,2 @@
 # cse210-tc03
+Hi, my name is Marlon Soza. You can call me Marlon. I am currently 21 years old. I am a origionaly  from Mozambique but I was born in Zimbabwe wich makes me a Zimbabwean by birth. I currently reside in South Africa Cape Town. This if my first time using git and github, I am still trying to find my way around it to understand. There is not much about me I can think of but feel free if you need to ask.
